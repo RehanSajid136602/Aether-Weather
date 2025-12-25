@@ -1,0 +1,7 @@
+{
+  "name": "Aether Weather",
+  "description": "A stunning, AI-powered glassmorphism weather dashboard featuring real-time Gemini Search grounding, Maps integration, and deep weather analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
